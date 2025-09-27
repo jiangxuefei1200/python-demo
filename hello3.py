@@ -2,6 +2,7 @@
 def say_hello():
     print("Hello, GitHub!")
     print("Hello, jiangxuefei1200!")
+    print("Hello, jiangxuefei1200! -20250927-01")
 
 if __name__ == "__main__":
     say_hello()
