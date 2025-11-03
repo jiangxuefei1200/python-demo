@@ -4,5 +4,7 @@ def say_hello():
     print("Hello, jiangxuefei1200!")
     print("Hello, jiangxuefei1200! -20250927-01")
 
+#测试添加注释，2025-11-03
 if __name__ == "__main__":
     say_hello()
+    say_hello()  #测试添加程序，2025-11-03

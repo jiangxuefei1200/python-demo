@@ -11,3 +11,4 @@ def say_hello():
 #测试添加注释，2025-11-03
 if __name__ == "__main__":
     say_hello()
+    say_hello()  #测试添加注释，2025-11-03
